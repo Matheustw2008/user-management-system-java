@@ -23,7 +23,7 @@ Este projeto foi criado com o objetivo de:
 
 - Java
 - Git & GitHub
-- IDE: IntelliJ IDEA (ou VS Code)
+- IDE: IntelliJ IDEA 
 
-## 📂 Estrutura do Projeto
+
 
